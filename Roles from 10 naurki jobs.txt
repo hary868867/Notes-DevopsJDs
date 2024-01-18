@@ -1,0 +1,129 @@
+Role: DevOps Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: DevOps
+Education
+UG: B.Tech/B.E. in Any Specialization, BCA in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+JenkinsGCPAWS
+GITShell ScriptingGithubDevops ToolsCi/CdPythonShell Python
+
+
+------------------------------
+
+Role: DevOps Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: DevOps
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+DevOps
+PowerShellGolangJavaAzureJenkinsRuby on RailsGitJavaScriptCI/CDSonarQubeGitlabAWS
+
+------------------------------
+
+Role: DevOps Engineer
+Industry Type: Software Product
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: DevOps
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+devops
+Jenkinscdkubernetescijenkindci/cd
+
+------------------------
+
+
+
+Role: DevOps Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: DevOps
+Education
+UG: B.Sc in Any Specialization, BCA in Any Specialization, B.Tech/B.E. in Any Specialization
+PG: Any Postgraduate
+Doctorate: Doctorate Not Required
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Azure DevOps
+JenkinsAzureDevOpsDockerVPNCloud ServicesPaaSCI/CDIaaSKubernetes
+
+----------------------
+
+Role: DevOps Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: DevOps
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+VPN ConfigurationCi/CdDocker ManagementKubernatesAzure Kubernetes Service
+Azure KubernetesAzure PipelinesAksConfiguringArm TemplatesAzure MonitoringLog AnalyticsVnetJenkinsAzure Service BusDockerVPN ServerDocker ContainerAzure DevopsAzure Storage
+
+---------------------
+
+
+Role: DevOps Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: DevOps
+Education
+UG: B.Tech/B.E. in Any Specialization, BCA in Any Specialization, B.Sc in Any Specialization
+PG: Any Postgraduate
+Doctorate: Doctorate Not Required
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+DevOps
+JenkinsAzure ContainerAzureDockerVPNCI/CD PipelinePaaSMicroservices ArchitectureIaaSYMLKubernetes
+
+-------------------
+
+Role: DevOps Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: DevOps
+Education
+UG: B.Tech/B.E. in Any Specialization, B.Sc in Any Specialization, BCA in Any Specialization
+PG: Any Postgraduate
+Doctorate: Doctorate Not Required
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+DevOps
+PowerShellAzureTerraformTDDCI/CD
+
+-------------------
+
+
+https://www.tanla.com/
+
+Role:DevOps Engineer
+
+Salary: Not Disclosed by Recruiter
+
+Industry:Software Product
+
+DepartmentEngineering - Software & QA
+
+Role CategoryDevOps
+
+Employment Type:Full Time, Permanent
+
+Key Skills
+AzureDockerAzure DevopsKubernetes
+GITContainerizationLinuxBuildIaasCI/CDHelmGrafana
+
+-------------------

@@ -1,0 +1,31 @@
+Currently I am working on Azure Devops services.
+
+As a Devops Engineer I will create the infrastructure for developers and testers and maintain it as well.
+
+My Main role is automating the CICD pipeline.
+
+We are using the Azure Repos for source code maintenance.
+
+We are using the Build Pipeline for building the code with different tasks based on application platforms like java and dotnet.
+
+We are using Sonarqube as a code quality analysis tool. And we are using custom metrics for code quality.
+
+Creating the Release pipelines and enabling the CICD pipelines and deploying the artifacts in different environments like DEV, SIT, QA with proper approval setup.
+
+Once the build is successful the Release pipeline gets triggered automatically and deployment will happen in the Lower environment (DEV).
+
+Once the deployment is validated by developers in Lower environments, they will promote the deployments into next environments with proper approvals.
+
+And we have implemented notification schema for build and release pipelines to email notification on Build and Deployment Status.
+
+And performing the admin related tasks as well.
+
+Apart from this I have worked on Git, Jenkins, Maven, MS Build, Udeploy, Nexus, Jfroj, Ansible, and AWS beanstalk service in previous projects.
+
+ 
+
+Coming to workflow, attending the daily standups, discussing what I have done, what I am doing and discussing on Blockers.
+
+And closely work with Development teams for getting the inputs.
+
+Sending the status mails to team and client. Attending the CR’s

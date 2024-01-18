@@ -1,0 +1,20 @@
+docker - 
+ansible -
+eks -
+kubernetes - 
+terraform - 
+devops techniques - 
+jenkins - 
+azure devops
+
+15 - ansible - 2h, jenkins - 2h
+16 - ansible - 2h, jenkins - 2h
+17 - ansible - 2h, jenkins - 2h
+18 - kubernetes-2h, docker - 2h
+19 - kubernetes-2h, docker - 2h
+20 - kubernetes-2h, docker - 2h
+21 - eks - 2h, terraform - 2h
+22 - eks - 2h, terraform - 2h
+23 - eks -2h, terraform - 2h
+24 - azure devops - 2h, 
+25 - azure devops - 2h,

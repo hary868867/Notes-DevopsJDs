@@ -1,0 +1,140 @@
+
+Search "kubernetes" (15 hits in 1 file of 1 searched)
+  new 7 (15 hits)
+	Line  19: Hands-on experience in Docker container and orchestration based deployments like Kubernetes, Service Fabric, Docker swarm.
+	Line  30: Administration of Open Source Kubernetes Clusters, EKS / GKE / OKE / OpenShift
+	Line  32: Strong experience in managing Kubernetes platform at an enterprise level
+	Line  38: Excellent- Kubernetesadministration debugging skills and a flair to work with application teams-Deployment ,Core components debugging
+	Line  73: 3+ years of experience with Kubernetes, Docker, and cloud deployment technologies
+	Line  88: Experience with containerization and orchestration technologies (e.g., Docker, Kubernetes).
+	Line 100: - DevOps Engineer having 4+ years of experience with solid knowledge on DevOps Practices & CI/CD- Good Knowledge & Hands-On Experience on Kubernetes, Docker, and Container Registries.- Knowledge and experience on Azure Kubernetes Services, Azure Container Registries is preferred- Strong knowledge and experience on Azure PaaS and IaaS services such as Azure Storage account, Azure File Shares, Azure Virtual machines management and deployment.- Experience and good knowledge on Jenkins with demonstrated skills in creating CI/CD pipelines is a must- Knowledge on YML with ability to create Docker Files for different environments and resources.- Hands-On Experience on working with Private Networks, VPN and configuring Application proxies and load balancers for AKS and other Azure Services- Fundamental knowledge on Microservices and Elastic Search is desired but not mandatory.
+	Line 111: Orchestrate applications (We use Nomad and Kubernetes)
+	Line 122: Kubernetes (K8s) a plus.
+	Line 130: Azure Kubernetes Services,Azure Container Registries
+	Line 142: Good Knowledge & Hands-On Experience on Kubernetes, Docker, and Container Registries.
+	Line 143: Knowledge and experience on Azure Kubernetes Services, Azure Container Registries is preferred
+	Line 196: Building Docker images, creating Kubernetes manifest files and Helm Charts
+	Line 203: Expertise in Containerization using Docker & orchestration using Kubernetes
+Search "docker" (17 hits in 1 file of 1 searched)
+  new 7 (17 hits)
+	Line  19: Hands-on experience in Docker container and orchestration based deployments like Kubernetes, Service Fabric, Docker swarm.
+	Line  63: Good knowledge on Containerization technology like Docker.
+	Line  72: Proven hands-on experience in installing, configuring, operating, and monitoring CI/CD pipeline tools such as Jenkins, Docker, Terraform, Ansible, or other CI/CD technologies
+	Line  73: 3+ years of experience with Kubernetes, Docker, and cloud deployment technologies
+	Line  87: Experience with CI/CD frameworks (i.e. Jenkins, Docker, Ansible)
+	Line  88: Experience with containerization and orchestration technologies (e.g., Docker, Kubernetes).
+	Line 100: - DevOps Engineer having 4+ years of experience with solid knowledge on DevOps Practices & CI/CD- Good Knowledge & Hands-On Experience on Kubernetes, Docker, and Container Registries.- Knowledge and experience on Azure Kubernetes Services, Azure Container Registries is preferred- Strong knowledge and experience on Azure PaaS and IaaS services such as Azure Storage account, Azure File Shares, Azure Virtual machines management and deployment.- Experience and good knowledge on Jenkins with demonstrated skills in creating CI/CD pipelines is a must- Knowledge on YML with ability to create Docker Files for different environments and resources.- Hands-On Experience on working with Private Networks, VPN and configuring Application proxies and load balancers for AKS and other Azure Services- Fundamental knowledge on Microservices and Elastic Search is desired but not mandatory.
+	Line 108: Develop build pipelines and release management/continuous integration plans with tools such as Jenkins and Docker
+	Line 125: Working knowledge of Docker and containers.
+	Line 136: Knowledge on YML with Docker Files for different environments and resources
+	Line 142: Good Knowledge & Hands-On Experience on Kubernetes, Docker, and Container Registries.
+	Line 146: Knowledge on YML with ability to create Docker Files for different environments and resources.
+	Line 196: Building Docker images, creating Kubernetes manifest files and Helm Charts
+	Line 203: Expertise in Containerization using Docker & orchestration using Kubernetes
+	Line 218: Experience in K8s, AKS, Docker and Helm, ARM templates
+Search "Python" (7 hits in 1 file of 1 searched)
+  new 7 (7 hits)
+	Line  12: Hands-on knowledge in one scripting language ( Python, Shell or PowerShell)
+	Line  13: Deploying, automating, maintaining and managing AWS cloud based production systems including monitoring capacity. Experience with Python programming is a plus.
+	Line  40: Ability to automate the manual touch points in the platform with Ansible playbooks, CI/CD tools and process ( Jenkins, JIRA, GitLab), Python, Groovy, Shell Scripts or any other scripting technologies as and when required good to have
+	Line  59: Able to automate the manual tasks using any one of the programming lanuages like Bash, PowerShell, Golang, Java, JavaScript, Perl, Python, Ruby on Rails.
+	Line  74: Strong knowledge of Linux Operating systems and scripting tools such as Python, bash
+	Line  89: Strong scripting and automation skills using Python, Shell, or similar.
+	Line 117: Some development experience with a high level language, preferably C# or Python.
+Search "terraform" (8 hits in 1 file of 1 searched)
+  new 7 (8 hits)
+	Line   4: Experience in implementing DevOps practices and DevOps-tools in areas like CI/CD using Jenkins environment automation, and release automation, virtualization, infra as a code (Terraform / CloudFormation) and metrics tracking.
+	Line  72: Proven hands-on experience in installing, configuring, operating, and monitoring CI/CD pipeline tools such as Jenkins, Docker, Terraform, Ansible, or other CI/CD technologies
+	Line  75: Terraform Infrastructure as Code experience
+	Line  90: Knowledge of infrastructure as code (IaC) tools like Terraform.
+	Line 112: Write code to automate the provisioning of new infrastructure (we use terraform and ansible)
+	Line 121: Experience with Hashicorp products(nomad, vault, terraform, consul, and packer).
+	Line 162: - Hands-on programming with PowerShell, Terraform and ARM Templates
+	Line 177: - Infrastructure-as-code development (PowerShell, Terraform and ARM Templates)
+Search "grafana" (4 hits in 1 file of 1 searched)
+  new 7 (4 hits)
+	Line  17: Set up advanced monitoring and observability solutions using Google/AWS Cloud Monitoring, Stackdriver, Prometheus, Grafana, or similar tools.
+	Line  36: Exposure to different components of a container platform like, Logging, Monitoring, Security and SRE practices -must have a basic exposure- Grafana , Prometheus-
+	Line 205: Monitoring tools such as Prometheus, Loki, Grafana
+	Line 220: Prior working experience on monitoring tools like Prometheus, Grafana, Loki and Promtail will be added advantage
+Search "ansible" (5 hits in 1 file of 1 searched)
+  new 7 (5 hits)
+	Line  40: Ability to automate the manual touch points in the platform with Ansible playbooks, CI/CD tools and process ( Jenkins, JIRA, GitLab), Python, Groovy, Shell Scripts or any other scripting technologies as and when required good to have
+	Line  61: Experience in any one of the configuration management tools like Ansible, Chef, Puppet, Salt
+	Line  72: Proven hands-on experience in installing, configuring, operating, and monitoring CI/CD pipeline tools such as Jenkins, Docker, Terraform, Ansible, or other CI/CD technologies
+	Line  87: Experience with CI/CD frameworks (i.e. Jenkins, Docker, Ansible)
+	Line 112: Write code to automate the provisioning of new infrastructure (we use terraform and ansible)
+Search "script" (11 hits in 1 file of 1 searched)
+  new 7 (11 hits)
+	Line   1: Role Description & Qualifications
+	Line  11: Hands-on experience on Jenkins pipeline scripting.
+	Line  12: Hands-on knowledge in one scripting language ( Python, Shell or PowerShell)
+	Line  26: Job Description:
+	Line  40: Ability to automate the manual touch points in the platform with Ansible playbooks, CI/CD tools and process ( Jenkins, JIRA, GitLab), Python, Groovy, Shell Scripts or any other scripting technologies as and when required good to have
+	Line  59: Able to automate the manual tasks using any one of the programming lanuages like Bash, PowerShell, Golang, Java, JavaScript, Perl, Python, Ruby on Rails.
+	Line  74: Strong knowledge of Linux Operating systems and scripting tools such as Python, bash
+	Line  89: Strong scripting and automation skills using Python, Shell, or similar.
+	Line 206: Strong knowledge in Linux Shell scripting and Linux OS commands
+	Line 219: Strong Knowledge on Git, Linux OS, shell scripting & PowerShell
+Search "shell" (11 hits in 1 file of 1 searched)
+  new 7 (11 hits)
+	Line  12: Hands-on knowledge in one scripting language ( Python, Shell or PowerShell)
+	Line  40: Ability to automate the manual touch points in the platform with Ansible playbooks, CI/CD tools and process ( Jenkins, JIRA, GitLab), Python, Groovy, Shell Scripts or any other scripting technologies as and when required good to have
+	Line  59: Able to automate the manual tasks using any one of the programming lanuages like Bash, PowerShell, Golang, Java, JavaScript, Perl, Python, Ruby on Rails.
+	Line  89: Strong scripting and automation skills using Python, Shell, or similar.
+	Line 162: - Hands-on programming with PowerShell, Terraform and ARM Templates
+	Line 177: - Infrastructure-as-code development (PowerShell, Terraform and ARM Templates)
+	Line 204: Good experience using automation tools like Azure ARM templates & PowerShell
+	Line 206: Strong knowledge in Linux Shell scripting and Linux OS commands
+	Line 219: Strong Knowledge on Git, Linux OS, shell scripting & PowerShell
+Search "jenkins" (11 hits in 1 file of 1 searched)
+  new 7 (11 hits)
+	Line   4: Experience in implementing DevOps practices and DevOps-tools in areas like CI/CD using Jenkins environment automation, and release automation, virtualization, infra as a code (Terraform / CloudFormation) and metrics tracking.
+	Line  11: Hands-on experience on Jenkins pipeline scripting.
+	Line  40: Ability to automate the manual touch points in the platform with Ansible playbooks, CI/CD tools and process ( Jenkins, JIRA, GitLab), Python, Groovy, Shell Scripts or any other scripting technologies as and when required good to have
+	Line  58: Good hands on on the CI/CD tools like SVN, Git, Gitlab, Jenkins, GoCD, MS Team Foundation Server, JFrog, Nexus etc
+	Line  72: Proven hands-on experience in installing, configuring, operating, and monitoring CI/CD pipeline tools such as Jenkins, Docker, Terraform, Ansible, or other CI/CD technologies
+	Line  87: Experience with CI/CD frameworks (i.e. Jenkins, Docker, Ansible)
+	Line 100: - DevOps Engineer having 4+ years of experience with solid knowledge on DevOps Practices & CI/CD- Good Knowledge & Hands-On Experience on Kubernetes, Docker, and Container Registries.- Knowledge and experience on Azure Kubernetes Services, Azure Container Registries is preferred- Strong knowledge and experience on Azure PaaS and IaaS services such as Azure Storage account, Azure File Shares, Azure Virtual machines management and deployment.- Experience and good knowledge on Jenkins with demonstrated skills in creating CI/CD pipelines is a must- Knowledge on YML with ability to create Docker Files for different environments and resources.- Hands-On Experience on working with Private Networks, VPN and configuring Application proxies and load balancers for AKS and other Azure Services- Fundamental knowledge on Microservices and Elastic Search is desired but not mandatory.
+	Line 108: Develop build pipelines and release management/continuous integration plans with tools such as Jenkins and Docker
+	Line 124: Hands on experience with Jenkins and/or Gitlab.
+	Line 131: Jenkins CI / CD
+	Line 145: Experience and good knowledge on Jenkins with demonstrated skills in creating CI/CD pipelines is a must
+Search "Azure" (40 hits in 1 file of 1 searched)
+  new 7 (40 hits)
+	Line  62: Experience in Private/Public clouds like Vcenter, AWS, Azure, GCP
+	Line  76: Experience operating services in one of the major Clouds such as OCI, AWS, Azure, etc.
+	Line  86: Experience designing and building application in OCI (or similar cloud platforms e.g., AWS, Azure)
+	Line 100: - DevOps Engineer having 4+ years of experience with solid knowledge on DevOps Practices & CI/CD- Good Knowledge & Hands-On Experience on Kubernetes, Docker, and Container Registries.- Knowledge and experience on Azure Kubernetes Services, Azure Container Registries is preferred- Strong knowledge and experience on Azure PaaS and IaaS services such as Azure Storage account, Azure File Shares, Azure Virtual machines management and deployment.- Experience and good knowledge on Jenkins with demonstrated skills in creating CI/CD pipelines is a must- Knowledge on YML with ability to create Docker Files for different environments and resources.- Hands-On Experience on working with Private Networks, VPN and configuring Application proxies and load balancers for AKS and other Azure Services- Fundamental knowledge on Microservices and Elastic Search is desired but not mandatory.
+	Line 115: 5+ years experience in a Dev-Ops or SRE role with AWS/ Azure
+	Line 130: Azure Kubernetes Services,Azure Container Registries
+	Line 132: Azure PaaS, IaaS services such as Azure Storage account, Azure File Shares, Azure Virtual machines management.VPN configuring Application proxies for AKS and other Azure Services
+	Line 137: Experience on working with Private Networks, VPN configuring Application proxies for AKS other Azure Services
+	Line 143: Knowledge and experience on Azure Kubernetes Services, Azure Container Registries is preferred
+	Line 144: Strong knowledge and experience on Azure PaaS and IaaS services such as Azure Storage account, Azure File Shares, Azure Virtual machines management and deployment.
+	Line 147: Hands-On Experience on working with Private Networks, VPN and configuring Application proxies and load balancers for AKS and other Azure Services
+	Line 152: Analyzing platform requirements to ensure a compliant and secure infrastructure in the Azure cloud
+	Line 154: - Ensuring interoperability between latest Azure products and existing components
+	Line 164: - Building CI/CD pipelines in Azure DevOps
+	Line 175: - Prior experience with at least one of the following topics like: Azure
+	Line 187: Position summary: A Senior DevOps Engineer will be responsible for building, configuring, monitoring, and troubleshooting cloud native applications on Azure Cloud Platform. All customer-facing and internal cloud platform elements will be required to be monitored to maintain service levels in line with customer SLAs and KPI’s.
+	Line 197: Platform monitoring, troubleshooting and resolution of issues on Azure (L2 support)
+	Line 201: Strong Hands-on experience on Azure Platform & Azure DevOps (VSTS)
+	Line 204: Good experience using automation tools like Azure ARM templates & PowerShell
+	Line 208: Good understanding of Azure CLI, networking and Security
+	Line 209: Good knowledge on Azure PaaS components and customization
+	Line 216: 3 - 6 year of experience in Cloud and DevOps, preferably Microsoft Azure
+	Line 217: Experience in setting up build and deployment pipelines (Azure DevOps)
+	Line 222: Azure Certified professionals are preferred
+Search "AWS" (10 hits in 1 file of 1 searched)
+  new 7 (10 hits)
+	Line   3: At least 4-5 years of experience in Cloud technologies-AWS & GCP development & Production along with DevOps.
+	Line  13: Deploying, automating, maintaining and managing AWS cloud based production systems including monitoring capacity. Experience with Python programming is a plus.
+	Line  17: Set up advanced monitoring and observability solutions using Google/AWS Cloud Monitoring, Stackdriver, Prometheus, Grafana, or similar tools.
+	Line  42: Experience in migrating legacy applications to the cloud (AWS, OCI or GCP)- good to have any one
+	Line  48: AWS and CKA certifications are desired- good to have
+	Line  62: Experience in Private/Public clouds like Vcenter, AWS, Azure, GCP
+	Line  76: Experience operating services in one of the major Clouds such as OCI, AWS, Azure, etc.
+	Line  86: Experience designing and building application in OCI (or similar cloud platforms e.g., AWS, Azure)
+	Line 115: 5+ years experience in a Dev-Ops or SRE role with AWS/ Azure
+	Line 120: Hands on AWS experience - other cloud providers a plus.

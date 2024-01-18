@@ -1,0 +1,224 @@
+Role Description & Qualifications
+
+At least 4-5 years of experience in Cloud technologies-AWS & GCP development & Production along with DevOps.
+Experience in implementing DevOps practices and DevOps-tools in areas like CI/CD using Jenkins environment automation, and release automation, virtualization, infra as a code (Terraform / CloudFormation) and metrics tracking.
+Demonstrated experience deploying IAC (Infrastructure as code)
+Hands on experience in DevOps tools configuration in different environments.
+Strong knowledge of working with DevOps design patterns, processes and best practices
+Hand-on experience in Setting up Build pipelines.
+Prior working experience in system administration or architecture in Windows or Linux.
+Must have experience in GIT (BitBucket, GitHub, GitLab)
+Hands-on experience on Jenkins pipeline scripting.
+Hands-on knowledge in one scripting language ( Python, Shell or PowerShell)
+Deploying, automating, maintaining and managing AWS cloud based production systems including monitoring capacity. Experience with Python programming is a plus.
+Good to have experience in migrating code repositories from one source control to another.
+Kafka experience is beneficial.
+Advanced Monitoring and Observability:
+Set up advanced monitoring and observability solutions using Google/AWS Cloud Monitoring, Stackdriver, Prometheus, Grafana, or similar tools.
+Collaborate closely with development, operations, and business teams to understand requirements, drive alignment, and deliver successful outcomes.
+Hands-on experience in Docker container and orchestration based deployments like Kubernetes, Service Fabric, Docker swarm.
+Must have good communication skills and problem solving skills
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+Job Description:
+
+Bachelors degree with 4 or more years experience in the IT industry and a relevant experience of 2-3 years in Container orchestration automation
+
+Administration of Open Source Kubernetes Clusters, EKS / GKE / OKE / OpenShift
+
+Strong experience in managing Kubernetes platform at an enterprise level
+
+Experience in building and remediating container images across CloudNative K8s, EKS or openshift-must have and good to have
+
+Exposure to different components of a container platform like, Logging, Monitoring, Security and SRE practices -must have a basic exposure- Grafana , Prometheus-
+
+Excellent- Kubernetesadministration debugging skills and a flair to work with application teams-Deployment ,Core components debugging
+
+Ability to automate the manual touch points in the platform with Ansible playbooks, CI/CD tools and process ( Jenkins, JIRA, GitLab), Python, Groovy, Shell Scripts or any other scripting technologies as and when required good to have
+
+Experience in migrating legacy applications to the cloud (AWS, OCI or GCP)- good to have any one
+
+Sound knowledge in cloud native tools(CNI, OPA, FLUX)- good to have
+
+Experience in container security scanning products- good to have
+
+AWS and CKA certifications are desired- good to have
+
+Strong knowledge in DevOps tools and processes- good to have
+
+--------------------------------------------------------------------------------------------------------------
+
+Minimum 3-6 years of experience in Build/Release and infrastructure management
+Knowledge on SDLC, Agile and DevOps methodologies
+Experience in UNIX/Linux, and Windows Administration
+Experience in configuring and handling the secure CI/CD pipelines
+Good hands on on the CI/CD tools like SVN, Git, Gitlab, Jenkins, GoCD, MS Team Foundation Server, JFrog, Nexus etc
+Able to automate the manual tasks using any one of the programming lanuages like Bash, PowerShell, Golang, Java, JavaScript, Perl, Python, Ruby on Rails.
+Able to integrate the security tools in the CI/CD pipeline (SonarQube, OWASP etc)
+Experience in any one of the configuration management tools like Ansible, Chef, Puppet, Salt
+Experience in Private/Public clouds like Vcenter, AWS, Azure, GCP
+Good knowledge on Containerization technology like Docker.
+Good knowledge on monitoring tools like Zabbix, Nagios etc
+Very good Troubleshooting & Analytical skills
+Must have excellent communication skills
+Flexible to work on shifts.
+External Title on Posting DevOps Engineer 
+
+--------------------------------------------------------------------------------------------------------------
+
+Proven hands-on experience in installing, configuring, operating, and monitoring CI/CD pipeline tools such as Jenkins, Docker, Terraform, Ansible, or other CI/CD technologies
+3+ years of experience with Kubernetes, Docker, and cloud deployment technologies
+Strong knowledge of Linux Operating systems and scripting tools such as Python, bash
+Terraform Infrastructure as Code experience
+Experience operating services in one of the major Clouds such as OCI, AWS, Azure, etc.
+Responsibilities:
+
+Take active part in development and migration of several applications into DevOps cloud-based environment.
+Provide technical guidance to application team to take advantage of cloud technologies and implement cloud infrastructure
+Implement migration efforts with application teams, including data migration.
+Qualifications:
+
+3+ years of relevant experience
+Bachelor's degree in Computer Science, Information Technology, or a related field
+Experience designing and building application in OCI (or similar cloud platforms e.g., AWS, Azure)
+Experience with CI/CD frameworks (i.e. Jenkins, Docker, Ansible)
+Experience with containerization and orchestration technologies (e.g., Docker, Kubernetes).
+Strong scripting and automation skills using Python, Shell, or similar.
+Knowledge of infrastructure as code (IaC) tools like Terraform.
+Experience with monitoring and logging tools
+Previous experience migrating applications from on-prem to cloud infrastructure (OCI preferred)
+Experience with Oracle databases (ATP, SQL)
+Strong problem-solving and troubleshooting skills.
+Excellent communication and collaboration abilities.
+
+
+-------------------------------------
+
+- DevOps Engineer having 4+ years of experience with solid knowledge on DevOps Practices & CI/CD- Good Knowledge & Hands-On Experience on Kubernetes, Docker, and Container Registries.- Knowledge and experience on Azure Kubernetes Services, Azure Container Registries is preferred- Strong knowledge and experience on Azure PaaS and IaaS services such as Azure Storage account, Azure File Shares, Azure Virtual machines management and deployment.- Experience and good knowledge on Jenkins with demonstrated skills in creating CI/CD pipelines is a must- Knowledge on YML with ability to create Docker Files for different environments and resources.- Hands-On Experience on working with Private Networks, VPN and configuring Application proxies and load balancers for AKS and other Azure Services- Fundamental knowledge on Microservices and Elastic Search is desired but not mandatory.
+
+------------------------------------
+
+Collaborate with our architecture, infrastructure and core CRM development teams to automate operations for the development teams
+Provide emergency incident response and investigation
+Deliver self-service tools for activities such as provisioning test environments
+Configure dashboards and advise development teams on application instrumentation needs to support monitoring and capacity planning needs
+Develop build pipelines and release management/continuous integration plans with tools such as Jenkins and Docker
+Troubleshoot failed builds, collaborating with the appropriate development team when needed
+Ensure the availability and recoverability of applications
+Orchestrate applications (We use Nomad and Kubernetes)
+Write code to automate the provisioning of new infrastructure (we use terraform and ansible)
+Willingness to research and implement continuous improvements to processes and technologies user
+
+5+ years experience in a Dev-Ops or SRE role with AWS/ Azure
+Linux experience (CentOS). Windows server administration experience a plus.
+Some development experience with a high level language, preferably C# or Python.
+Strong understanding of infrastructure-level resources (networking, storage, I/O, compute) is necessary.
+Experience with modern application deployment models, such as blue/green and canary, is a must.
+Hands on AWS experience - other cloud providers a plus.
+Experience with Hashicorp products(nomad, vault, terraform, consul, and packer).
+Kubernetes (K8s) a plus.
+Hands on experience working with Git (we use stash).
+Hands on experience with Jenkins and/or Gitlab.
+Working knowledge of Docker and containers.
+Elastic Search management is a plus.
+
+-------------------------------------
+
+Azure Kubernetes Services,Azure Container Registries
+Jenkins CI / CD
+Azure PaaS, IaaS services such as Azure Storage account, Azure File Shares, Azure Virtual machines management.VPN configuring Application proxies for AKS and other Azure Services
+
+Required Candidate profile
+
+Knowledge on YML with Docker Files for different environments and resources
+Experience on working with Private Networks, VPN configuring Application proxies for AKS other Azure Services
+
+------------------------------------
+
+DevOps Engineer having 4+ years of experience with solid knowledge on DevOps Practices & CI/CD
+Good Knowledge & Hands-On Experience on Kubernetes, Docker, and Container Registries.
+Knowledge and experience on Azure Kubernetes Services, Azure Container Registries is preferred
+Strong knowledge and experience on Azure PaaS and IaaS services such as Azure Storage account, Azure File Shares, Azure Virtual machines management and deployment.
+Experience and good knowledge on Jenkins with demonstrated skills in creating CI/CD pipelines is a must
+Knowledge on YML with ability to create Docker Files for different environments and resources.
+Hands-On Experience on working with Private Networks, VPN and configuring Application proxies and load balancers for AKS and other Azure Services
+Fundamental knowledge on Microservices and Elastic Search is desired but not mandatory.
+
+-------------------------------------
+
+Analyzing platform requirements to ensure a compliant and secure infrastructure in the Azure cloud
+
+- Ensuring interoperability between latest Azure products and existing components
+
+- Designing software modules for automatic testing and continuous deployments
+
+- Delivering realistic effort estimations as input for our platform roadmap
+
+- Writing behavioral tests and unit tests with Gherkin
+
+- Hands-on programming with PowerShell, Terraform and ARM Templates
+
+- Building CI/CD pipelines in Azure DevOps
+
+- Documenting and reviewing operating manuals for the first-level support
+
+- Analyzing and solving incidents in productive environment while avoiding data loss and minimizing service outages
+
+- Challenging current practices giving feedback to colleagues and encouraging software development best-practices to build the best solution for our users
+
+
+Required Knowledge & Skills:
+
+- Prior experience with at least one of the following topics like: Azure
+
+- Infrastructure-as-code development (PowerShell, Terraform and ARM Templates)
+
+- Advanced knowledge in DevOps, Continuous Deployment and testing techniques
+
+- Familiar with networking and security concepts (VNet, Subnet, NSG, Load balance etc.)
+
+- Knowledge of software development practices like Scrum and Test-Driven Development.
+
+--------------------------------
+
+Position summary: A Senior DevOps Engineer will be responsible for building, configuring, monitoring, and troubleshooting cloud native applications on Azure Cloud Platform. All customer-facing and internal cloud platform elements will be required to be monitored to maintain service levels in line with customer SLAs and KPI’s.
+
+You will be responsible for:
+
+Adapting to existing cloud infrastructure and proposing alternatives where required
+Understand requirements, processes & strategize scaling applications to support new launches
+Identifying and addressing risks to applications while maintaining application health
+Coordinating with Technical Teams to identify and handle root cause of issues on cloud
+Proposing cost saving and optimization measures for applications deployed on cloud platforms
+Building Docker images, creating Kubernetes manifest files and Helm Charts
+Platform monitoring, troubleshooting and resolution of issues on Azure (L2 support)
+Adherence to process compliance & ensuring platform reliability
+Competencies: The position must have the following competencies:
+
+Strong Hands-on experience on Azure Platform & Azure DevOps (VSTS)
+Source Code Management (Git & GitHub)
+Expertise in Containerization using Docker & orchestration using Kubernetes
+Good experience using automation tools like Azure ARM templates & PowerShell
+Monitoring tools such as Prometheus, Loki, Grafana
+Strong knowledge in Linux Shell scripting and Linux OS commands
+Helm Package Manager and Helm charts
+Good understanding of Azure CLI, networking and Security
+Good knowledge on Azure PaaS components and customization
+Team Player with understanding of Agile development processes
+Excellent interpersonal, verbal and written communication skills
+
+What you should have?
+
+B.E/B.Tech/M.E/M.Tech/MCA (IT, CSE, ECE) with Good Communication Skills
+3 - 6 year of experience in Cloud and DevOps, preferably Microsoft Azure
+Experience in setting up build and deployment pipelines (Azure DevOps)
+Experience in K8s, AKS, Docker and Helm, ARM templates
+Strong Knowledge on Git, Linux OS, shell scripting & PowerShell
+Prior working experience on monitoring tools like Prometheus, Grafana, Loki and Promtail will be added advantage
+Strong understanding of IaaS, PaaS and SaaS cloud models.
+Azure Certified professionals are preferred
+
+---------------------------------

@@ -1,0 +1,42 @@
+Can you describe how you have implemented continuous integration (CI) and continuous deployment (CD) in a previous project?
+How would you approach a situation where the deployment pipeline is failing continuously?
+Can you describe how you would approach an issue with a containerized application that is crashing?
+Describe how you would automate the deployment of infrastructure using Terraform.
+How would you set up an automated testing environment using Docker?
+What is your experience with container orchestration tools such as Kubernetes or Docker Swarm?
+Can you describe how you would set up a monitoring system for an application running on AWS?
+Can you explain how you would perform blue-green deployment for a web application?
+Describe how you would optimize the performance of an application deployed on AWS.
+How would you troubleshoot a slow application deployed on Azure?
+Can you explain how you would automate the deployment of a database schema?
+Describe how you would set up a load-balancing system for an application running on Google Cloud.
+How would you ensure that an application running on AWS is highly available and fault-tolerant?
+Can you explain how you would handle a security incident in an application running on Azure?
+Describe how you would set up a backup and recovery system for an application deployed on Google Cloud.
+How would you troubleshoot a network connectivity issue in an application running on AWS?
+Can you explain how you would handle a deployment rollback?
+Describe how you would set up an incident response system for an application running on Azure.
+Can you explain how you would implement infrastructure as code using Ansible?
+Describe how you would set up an automated testing environment using Jenkins.
+How would you ensure that an application running on Google Cloud is highly scalable?
+Can you explain how you would use Git for version control in a DevOps environment?
+Describe how you would set up a container registry using Docker Hub.
+How would you implement infrastructure automation using CloudFormation on AWS?
+Can you explain how you would use Puppet for configuration management in a DevOps environment?
+Describe how you would set up a disaster recovery system for an application deployed on Azure.
+How would you troubleshoot a high CPU usage issue in an application running on Google Cloud?
+Can you explain how you would use Kubernetes for container orchestration in a DevOps environment?
+Describe how you would set up a security scanning system for containerized applications using Docker.
+How would you handle a database schema migration in an application running on AWS?
+Can you explain how you would use Ansible Tower for infrastructure automation in a DevOps environment?
+Describe how you would set up a CI/CD pipeline for a Node.js application using Jenkins.
+How would you optimize the performance of an application running on Azure?
+Can you explain how you would use HashiCorp Vault for secrets management in a DevOps environment?
+Describe how you would set up a monitoring system for an application running on Google Cloud.
+How would you troubleshoot a disk space issue in an application running on AWS?
+Can you explain how you would use Nagios for monitoring in a DevOps environment?
+Describe how you would set up a containerized build environment using Docker.
+How would you handle a security vulnerability in an application running on Azure?
+Can you explain how you would use AWS Lambda for serverless computing in a DevOps environment?
+Describe how you would set up a highly available Redis cache using Azure.
+How would you optimize the performance

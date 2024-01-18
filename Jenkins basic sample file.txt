@@ -1,0 +1,12 @@
+node will allocate the workspace for the build.
+
+node {
+  stage("checkout"){
+    sh "ls"
+	git branch: 'main', url: https://github.com/hary867/course3-jenkins-gs-spring-petclinic
+	sh "ls"
+  }
+  stage("build"){
+    ./mvnw package
+  }
+}  

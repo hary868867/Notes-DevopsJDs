@@ -1,0 +1,33 @@
+developer - > github - > jenkins ( build, ) -> maven -> sonar -> nexus repo -> deploy to certain environment 
+
+
+#! /bin/bash
+
+echo "please enter ages of two persons"
+
+read -a ages 
+
+total = 0
+count = 0
+
+for age "$ages[@]" 
+do
+ total = $($total + $age ))
+ count = $(($count + 1 ))
+done
+
+average = $(($total/$count ))
+
+echo " average age is $average "
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#

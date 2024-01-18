@@ -1,0 +1,51 @@
+PluralSight
+
+
+Getting Started with Kubernetes	Course		
+
+Getting Started with EKS (Elastic Kubernetes Service)	
+
+Working with Git Branches	
+
+Getting Started with GitHub Actions	
+
+GitOps Automations for Multiple EKS Environments	
+
+Building and Running Your First Docker App	
+
+Building and Using a Multi-node Jenkins Farm	
+
+Introduction to Amazon Elastic Container Service	
+
+Getting Started with Docker	
+
+Docker Deep Dive	
+
+Getting Started with Jenkins	
+
+Azure DevOps Services Fundamentals	
+
+Docker and Kubernetes: The Big Picture	
+
+Terraform Deep Dive	
+
+Persistence in Jakarta EE 10 with Hibernate	
+
+Microservices Architecture Fundamentals		
+
+Spring Framework: Spring Data JPA 5 with Hibernate	
+
+AWS Certified DevOps Engineer: Continuous Delivery and Automation	
+
+DevOps on AWS: Getting Started	
+
+Terraform - Getting Started	
+
+Continuous Delivery and Automation on AWS for DevOps Engineers	
+
+Continuous Integration and Continuous Delivery: The Big Picture	
+
+Automated Web Testing with Selenium and WebDriver 4 Using Java
+
+Lab - Docker and Kubernetes: The Big Picture		
+

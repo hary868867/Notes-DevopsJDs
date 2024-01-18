@@ -1,0 +1,20 @@
+resume
+
+Results-oriented IT professional with over 5 years of experience which 4 years as Devops Engineer & 1 years as Back-end developer. Work Experience: 2.5 years on Azure DevOps & 1.5 year on AWS devops       
+
+
+MBRDI-VSM is a vehicle source management project which manages ECU-trust model certificates.
+
+•Main role is automating the CICD pipeline using Azure Devops services and other tools, We are using the Azure Repos for source code maintenance.
+•Creating the Build and Release pipeline based on the requirements and generating the artifacts. 
+•Creating the Deployment flow based on the application requirements and Deployment server maintenance
+•Once the build is successful Release pipeline get triggers automatically and deployment will happens in Lower environment like (DEV).
+•Once the deployment is validated by developer in Lower environments, we will promote deployments into next environments with proper approvals.
+
+
+Results-oriented IT professional with over 5 years of experience which 4 years as Devops Engineer & 1 years as Back-End Developer. Work Experience: 4 years experience in DevOps which 3 years on Azure DevOps & 1 year on AWS devops
+
+
+Results-oriented IT professional with over 5 years of experience which 4 years as Devops Engineer & 1 year as Back-End Developer . Work Experience: 4 years experience in DevOps which 2.5 years on Azure DevOps & 1.5 year on AWS devops Experience in Automating, Building, Deploying and Releasing of Code from one Environment to another Environment. Experience in Build Automation using Git, GitHub, MS-Build, Azure DevOps, Docker &Kubernetes, Azure Services which Reduces the effort of developers and operation team in performing maintenance and daily Operations. Automation of build process CI/CD pipelines using Azure DevOps, MS-Build, Azure Artifacts, GitHub, PowerShell DSC, SonarQube and Docker, Kubernetes. Experience in working on source controller tool like (Global Integration Tool) GIT. Strong knowledge on source controls concepts like Branches, Merges and Tags.
+
+

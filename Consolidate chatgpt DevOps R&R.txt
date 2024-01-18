@@ -1,0 +1,43 @@
+Consolidated Responsibilities for DevOps Engineer Role:
+
+Cloud Technologies: 4-5 years of experience in AWS & GCP development, production, and DevOps practices.
+
+DevOps Implementation: Implementing CI/CD using Jenkins, environment automation, release automation, and infrastructure as code (Terraform/CloudFormation).
+
+Infrastructure Automation: Hands-on experience in setting up build pipelines and deploying IAC.
+
+Source Control: Experience in GIT (BitBucket, GitHub, GitLab) and Jenkins pipeline scripting.
+
+Cloud Management: Deploying, automating, maintaining, and managing AWS cloud-based production systems.
+
+Monitoring and Observability: Set up advanced monitoring and observability solutions using Cloud Monitoring, Stackdriver, Prometheus, Grafana, or similar tools.
+
+Containerization and Orchestration: Hands-on experience in Docker and orchestration using Kubernetes, Service Fabric, Docker swarm.
+
+Collaboration: Collaborate closely with development, operations, and business teams to understand requirements and drive successful outcomes.
+
+Kubernetes Administration: Administration of Open Source Kubernetes Clusters, EKS/GKE/OKE/OpenShift, with strong enterprise-level experience.
+
+Container Platform Management: Manage Kubernetes platform components, container image building, and exposure to container platform components like logging, monitoring, security, and SRE practices.
+
+Automation and Scripting: Automate manual touchpoints with Ansible playbooks, CI/CD tools, and scripting languages like Python, Shell, or PowerShell.
+
+Cloud Migration: Experience in migrating legacy applications to the cloud (AWS, OCI, or GCP).
+
+DevOps Tooling and Processes: Strong knowledge of DevOps tools and processes.
+
+Build/Release Management: 3-6 years of experience in build/release and infrastructure management.
+
+SDLC and Agile: Knowledge of SDLC, Agile, and DevOps methodologies.
+
+CI/CD Tools: Hands-on experience with CI/CD tools like SVN, Git, Gitlab, Jenkins, GoCD, MS Team Foundation Server, JFrog, Nexus.
+
+Security Integration: Integrate security tools in CI/CD pipelines (SonarQube, OWASP).
+
+Configuration Management: Experience with configuration management tools like Ansible, Chef, Puppet, Salt.
+
+Containerization Knowledge: Good knowledge of containerization technology like Docker.
+
+Troubleshooting and Analytical Skills: Very good troubleshooting and analytical skills, along with excellent communication skills.
+
+These consolidated responsibilities cover a wide range of skills and experiences commonly sought after by organizations for a DevOps Engineer role.

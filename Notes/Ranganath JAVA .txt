@@ -1,0 +1,148 @@
+Ranganath JAVA 
+
+175. class is just a template, by using that template we create objects.. that object will have a state and behaviour 
+     lets say there is motor bike class, honda and ducati are instances of the class. ( the instances of the class are called objects )
+	 class will have a member variable, we can assign that member variable to instance of class & thats called as the state of the instance/object
+	 here, speed can be the member variable, ducati can have speed 100, honda can have speed 200, so we can assign those values to ducati and honda which becomes state of an object 
+	 
+	 we established here is 100 is speed of ducati, but the speed can change, which means the state of an object can change, so how we will represent the state change, 
+	 we can represent them by methods, so methods can be called as the behaviour of the objects.. a common example of the method is constructor, 
+	 a constructor is method which can have the same name as of the class .. for eg Motorbike is the class name, the sample constructor can be // Motobike(){ this.speed(5)= speed } // so when we Motorbike() is used in runner class, it gets a default value 5 in speed.. which it represents the behaviour of the object 
+	 also we can use methods like get()& set(), constructors with varibles // Motobike( int speed) // 
+	 
+	 with all these methods we can represent the behaviour of the object 
+	 so what we learnt is a class will have objects and those objects will have state and behaviour which can be represented by variables and methods 
+	 
+176. after opening the ide, go to new -> project-> give name and open it, the project with .idea& src with src having main and test as subfolders, with main having java as subfolder 
+     with in the java folder of main,src we can create a package or class... so, when creating new class, we need to give package first
+     then, we need to give main class & runner class in the same package 
+	 
+	 ------- 
+	 
+	 data types discussed in video : string, double, boolean, enum, byte 
+	 tips : main+ctrl space will give the main method automatically in eclipse ide 
+     toString(); is used to print the state of the object ...shortcut to create toString();   right click on the IDE, go to generate and click on toString, select the state you want to print, enter 
+	 
+177. what he expalined is how to use getters and setters, constructors etc to represent the behaviour of object 
+     in IDE, we created getters and setters, constructors and ran the fan runner class for the output
+	 
+178. he explained similar example related to rectangle to represent behaviour of object 
+
+179. up to now, we have state of an object, but there can be a case where object inside an object will exists, thats called object composition, so, lets have a look in to that 
+     if we give the reference of the object in one class to an instance of the another object in class, it is called object composition, with eg written down, you will get a clear idea, see that 
+     
+	 -------
+	 
+	 we created a new package in java folder of secondlearn project & given it a name object composition 
+	 right click on objectcomposition package, created a Customer & Customer Runner class 
+	 opened the customerrunner class and typed main & ctrl+space given the main method 
+	 opened the customer class and created member variables : name, homeaddress & workaddress.. but on the address variable, we did not give data type to the member variable, we just created another Address class  and given it as a data type for the variable
+	 so as we have new class named Address, we just created a member variables for that class : line1, city, zip. 
+	 we came to customer class and created a constructor & getters and setters & tostring ... we opened the address class & created a constructor for address, also given toString 
+	 we created customer1 and printed the output 
+	 
+	 
+180. this is also an example for the object composition and object here is book 
+
+.........................................
+INHERITANCE 
+
+181. In inheritance, there will be subclass and super class... subclass extends superclass and subclass gets all the features which are present in the superclass.
+	 extends is the word which we will use to get features of super class in to subclass 
+	 
+	 ------------
+	 
+	 we created person class and student class, we given student class extends person, so here, student is the sub class and person is the super class 
+	 then we created a constructor in person class & then in student class ... so when we created a constructor in student class, it automatically took all the variables of person class & given as super(); method in the student class constructor ..check the code of inheritance181 javaclass in secondlearn project, you will get it                 
+	 
+	 
+182. one of the most important concepts about Inheritance is that every class which does not extend anything, actually extends Object class.
+	 There is a class called Object in Java and this object class is the root of the class hierarchy. That means, that every other class would either inherit from object or it would inherit from some other class which is inheriting from object. So, it's root of the class hierarchy. 
+     which simply means every class we create is a subclass of Object class.	 
+	 So, over here you'd find a number of methods like hashCode( ), equals( ), clone( ), toString( ) is also present in here. That's the reason why we would be able to do things like person.toString( ) and let's say this returns a value back.       
+	 how to open object class ? ... how ranga did is, he given extends Object to person class and ctrl+mouse on Object class, that opens the object class and you can see what all it can do 
+	 
+	 
+183. Method Overriding
+     so, we have discussed that every class is a sub-class of Object class, but we can overwrite the default implementation of method in object class and can do our own implementation.
+	 for eg, when we use default toString, it has some default implementation, but we can change the implementation of it. thats called overriding
+     how can we do that ? ... copy the default toString in to the subclass from object class and then implement your own code , automatically that will execute 
+     	 
+184. exercise regarding inheritance using employee class which extends person 
+
+185. 
+186. there will be inheritance hierarchy but there will not be multiple inheritance in java 
+     Also, in inheritance you can have a superclass reference variable that can hold a subclass variable. What do I mean, right? So, I can say Pet pet = new Dog( ), that's allowed. where Dog class  extends Pet class and Pet extends Animal class
+	 
+........................
+ABSTRACT CLASS 
+
+187. an abstact class will just have methods but there no implementation to the method.. the implementation will be done on the subclasses, how can we define an abstract class, just place the keyword Abstract  before both the abstract class and also on the method 
+     you cannot create instances with abstract classes
+     	 
+     		 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
